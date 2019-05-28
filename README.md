@@ -1,6 +1,12 @@
 # health_band
 腕輪形のディバイスで心拍数を測定します。
+
 非常な心拍数が測定された時はSMSを送ります。
+
+## 使用技術
+1. arduino
+
+2. app inventor
 
 ## image
 ![screen01](./img/1.jpg)
