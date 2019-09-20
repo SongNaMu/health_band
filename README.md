@@ -15,9 +15,9 @@
 
 ![screen03](./img/3.jpg)
 
-![screen04](./img/4.jpg)
+![screen04](./img/4.png)
 
-![screen05](./img/5.jpg)
+![screen05](./img/5.png)
 
 
 ## video
